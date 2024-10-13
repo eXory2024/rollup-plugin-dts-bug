@@ -1,1 +1,1 @@
-export type {myFunction} from "./myFunction.mts"
+export type {myFunction} from "./myFunction.d.mts"
