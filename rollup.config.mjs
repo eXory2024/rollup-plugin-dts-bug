@@ -4,7 +4,7 @@ export default {
 	input: "./src/test.d.mts",
 
 	output: {
-		file: "./dist/module.d.mts"
+	//	file: "./dist/module.d.mts"
 	},
 
 	plugins: [
