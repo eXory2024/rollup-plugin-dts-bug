@@ -1,5 +1,3 @@
-import {MyEnumType} from "./MyEnumType.mts"
-
-export function myFunction() : MyEnumType {
-	return MyEnumType.Something
+export function myFunction(a : string) : string {
+	return `${a}`
 }
